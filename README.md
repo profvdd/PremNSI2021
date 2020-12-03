@@ -10,4 +10,4 @@ Cliquez sur le lien Binder pour accéder à un environnement Python/Jupyter en l
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profvdd/PremNSI2021/HEAD)
